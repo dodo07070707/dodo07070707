@@ -1,8 +1,8 @@
-Hi, There!👋
-<div align="left">
+<h3 align="center"> Hi, There!👋 </h3>
+<div align="center">
   <a href="https://www.instagram.com/d0_.yxn_" target="_blank"><img src="https://img.shields.io/badge/d0_.yxn_-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/> 
   <a href="https://www.youtube.com/channel/UC8sUzhRqdKGUql0BgHVJ3jQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/></a>
   <a href="https://blog.naver.com/d0yxn" target="_blank"><img src="https://img.shields.io/badge/Blog-03C75A.svg?style=for-the-badge&logo=Naver&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=Notion&logoColor=white"/>
@@ -22,7 +22,9 @@ Hi, There!👋
   <img src="https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white"/>
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white"/>
-  [![D0YXN's GitHub stats](https://github-readme-stats.vercel.app/api?username=dodo07070707&include_all_commits=true&theme=radical&hide_border=true&count_private=true)](https://github.com/dodo07070707/github-readme-stats)
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dodo07070707&layout=compact">
+  <img src="https://github-readme-stats.vercel.app/api?username=dodo07070707&include_all_commits=true&theme=vue&hide_border=true&count_private=true)](https://github.com/dodo07070707/github-readme-stats">
+  
 
 </div>
-
