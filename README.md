@@ -22,7 +22,7 @@ Hi, There!👋
   <img src="https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white"/>
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white"/>
-  [![JIHO's GitHub stats](https://github-readme-stats.vercel.app/api?username=dodo070707070&include_all_commits=true&theme=radical&hide_border=true&count_private=true)](https://github.com/dodo07070707/github-readme-stats)
+  [![D0YXN's GitHub stats](https://github-readme-stats.vercel.app/api?username=dodo07070707&include_all_commits=true&theme=radical&hide_border=true&count_private=true)](https://github.com/dodo07070707/github-readme-stats)
 
 </div>
 
