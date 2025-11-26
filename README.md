@@ -16,7 +16,6 @@
   <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=for-the-badge&logo=RaspberryPi&logoColor=white"/>
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dodo07070707&layout=compact">
-  <img src="https://github-readme-stats.vercel.app/api?username=dodo07070707&include_all_commits=true&theme=vue&hide_border=true&count_private=true)](https://github.com/dodo07070707/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dodo07070707&layout=compact"/>
   
 </div>
