@@ -17,5 +17,6 @@
   <img src="https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=for-the-badge&logo=RaspberryPi&logoColor=white"/>
   <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dodo07070707&layout=compact"/>
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=dodo07070707&show_icons=true&theme=dark"/>
+  <img src="http://mazassumnida.wtf/api/generate_badge?boj=dodo070707)](https://solved.ac/dodo070707"/>
 </div>
