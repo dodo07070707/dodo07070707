@@ -32,12 +32,8 @@
   </a>
 
 <br/><br/>
-
   <!-- GitHub Stats -->
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dodo07070707&layout=compact"/>
-
+  <img src="https://github-readme-stats-dodo07070707s-projects.vercel.app/api/top-langs/?username=dodo07070707&layout=compact"/>
   <br/>
-
-  <img src="https://github-readme-stats.vercel.app/api?username=dodo07070707&show_icons=true&theme=dark"/>
+  <img src="https://github-readme-stats-dodo07070707s-projects.vercel.app/api?username=dodo07070707&show_icons=true&theme=dark"/>
 </div>
