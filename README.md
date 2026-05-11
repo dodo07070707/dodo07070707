@@ -26,10 +26,12 @@
 <br/><br/>
 
 <div align="center">
-  <!-- Solved.ac -->
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats-dodo07070707s-projects.vercel.app/api/top-langs/?username=dodo07070707&layout=compact" height="195"/>
+  <img src="https://github-readme-stats-dodo07070707s-projects.vercel.app/api?username=dodo07070707&show_icons=true&theme=dark" height="195"/>
+  <br/>
+    <!-- Solved.ac -->
   <a href="https://solved.ac/dodo070707">
-    <img src="http://mazassumnida.wtf/api/generate_badge?boj=dodo070707" width="32%"/>
+    <img src="http://mazassumnida.wtf/api/generate_badge?boj=dodo070707"/>
   </a>
-  <img src="https://github-readme-stats-dodo07070707s-projects.vercel.app/api/top-langs/?username=dodo07070707&layout=compact" width="32%"/>
-  <img src="https://github-readme-stats-dodo07070707s-projects.vercel.app/api?username=dodo07070707&show_icons=true&theme=dark" width="32%"/>
 </div>
