@@ -25,15 +25,11 @@
 
 <br/><br/>
 
+<div align="center">
   <!-- Solved.ac -->
-
   <a href="https://solved.ac/dodo070707">
-    <img src="http://mazassumnida.wtf/api/generate_badge?boj=dodo070707"/>
+    <img src="http://mazassumnida.wtf/api/generate_badge?boj=dodo070707" width="32%"/>
   </a>
-
-<br/><br/>
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats-dodo07070707s-projects.vercel.app/api/top-langs/?username=dodo07070707&layout=compact"/>
-  <br/>
-  <img src="https://github-readme-stats-dodo07070707s-projects.vercel.app/api?username=dodo07070707&show_icons=true&theme=dark"/>
+  <img src="https://github-readme-stats-dodo07070707s-projects.vercel.app/api/top-langs/?username=dodo07070707&layout=compact" width="32%"/>
+  <img src="https://github-readme-stats-dodo07070707s-projects.vercel.app/api?username=dodo07070707&show_icons=true&theme=dark" width="32%"/>
 </div>
